@@ -13,18 +13,19 @@ def center_text(text):
 
 # ASCII 
 ascii_art = """
- __     ___ _    _ _            _     _ 
- \ \   / (_) | _(_) |_ ___  ___| |__ (_)
-  \ \ / /| | |/ / | __/ _ \/ __| '_ \| |
-   \ V / | |   <| | || (_) \__ \ | | | |
-    \_/  |_|_|\_\_|\__\___/|___/_| |_|_|
+
+__________.__        __           
+\______   \__|______|  | _____.__.
+ |       _/  \___   /  |/ <   |  |
+ |    |   \  |/    /|    < \___  |
+ |____|_  /__/_____ \__|_ \/ ____|
+        \/         \/    \/\/     
                                          
 """
 
 # Deskripsi teks
 description = """
-Bot Auto Bridge Arbitrum Sepolia ke Base Sepolia https://bridge.t1rn.io/
-Airdrop Atambua
+Salam JEPE MAXIMAL
 """
 
 # Output
