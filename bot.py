@@ -35,11 +35,11 @@ print(center_text(description))
 print("\n\n")
 
 # Detail jaringan
-private_key = 'PRIVATE KEY ANDA' # GANTI DENGAN PRIVATE KEY ANDA
+private_key = '6f65eda2976e75239485fec11ab6381d0c22187b89735b054239007169acf4f7' # GANTI DENGAN PRIVATE KEY ANDA
 rpc_url = 'https://arb-sepolia.g.alchemy.com/v2/YhkuU2iX0rA1pk2F880RLF3ZiIpxmf6M' # JANGAN DIGANTI
 chain_id = 421614 # JANGAN DIGANTI
 contract_address = '0x8D86c3573928CE125f9b2df59918c383aa2B514D' # JANGAN DIGANTI
-my_address = 'ADDRESS EVM ANDA' # GANTI DENGAN ADDRESS EVM ANDA
+my_address = '0xcAB1D8411c3A60D6BF1d1C625b6763e8018A163A' # GANTI DENGAN ADDRESS EVM ANDA
 
 # Koneksi ke jaringan
 web3 = Web3(Web3.HTTPProvider(rpc_url))
